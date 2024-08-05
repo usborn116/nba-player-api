@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "nba-player-api"
-  s.version     = "0.0.0"
+  s.version     = "0.0.1"
   s.summary     = "NBA player data"
   s.description = "Gets basic NBA player data from NBA.com"
   s.authors     = ["Usborn Ocampo"]
@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.files       = 
     ["lib/nba-player-api.rb", "lib/nba_player_api/player.rb", "lib/nba_player_api/stat_card.rb", "lib/nba_player_api/constants.rb"]
   s.homepage    =
-    "https://rubygems.org/gems/nba_player_api"
+    "https://rubygems.org/gems/nba-player-api"
   s.license       = "MIT"
   s.add_development_dependency "rspec"
   s.add_development_dependency "faraday"
