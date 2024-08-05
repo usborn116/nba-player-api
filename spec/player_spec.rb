@@ -1,4 +1,4 @@
-require_relative '../lib/nba_player_api.rb'
+require_relative '../lib/nba-player-api.rb'
 
 describe NBAPlayerAPI::Player do
 
